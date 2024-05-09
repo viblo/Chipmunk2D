@@ -8,6 +8,10 @@ What's new in NEXT:
 * BUG: Fix FFI symbols not exported on windows under mingw 
 * BUG: Fix a potential divide by zero in ClosestT
 * BUG: Fix division by zero in cpPolyShapeSegmentQuery() function.
+* BUG: Fix planetmath url (by ccgargantua)
+* BUG: Optimized memory allocation of cpPolylineSet (by richardgroves)
+* BUG: Fix cast between incompatible function type to reduce warnings (by aganm)
+
 
 
 What's new in 7.0.3:
