@@ -105,6 +105,7 @@ static const cpConstraintClass klass = {
 	(cpConstraintApplyCachedImpulseImpl)applyCachedImpulse,
 	(cpConstraintApplyImpulseImpl)applyImpulse,
 	(cpConstraintGetImpulseImpl)getImpulse,
+	(cpConstraintResetAccImpl)resetAcc,
 };
 
 cpSlideJoint *
