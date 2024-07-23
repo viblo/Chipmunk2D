@@ -1,4 +1,5 @@
 What's new in NEXT:
+* API: Now possible to to override cpMessage by defining CP_OVERRIDE_MESSAGE 
 * API: The maxForce property now have effect on DampedSpring and DampedRotarySpring
 * API: Reset velocity and constraint jAcc when body type changes to DYNAMIC
 * API: Add transform property to cpSpaceDebugDrawOptions 
